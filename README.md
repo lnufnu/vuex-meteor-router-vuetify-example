@@ -7,7 +7,7 @@ This is a Meteor example project to demonstrate integrating Vue with Vuex and Vu
 
 Uses [akryum:vue-router2](https://github.com/meteor-vue/vue-meteor/tree/master/packages/vue-router2) and [Vuex](https://www.npmjs.com/package/vuex) from npm instead of [akryum:vuex](https://atmospherejs.com/akryum/vuex) from atmosphere.
 
-Also uses [Vuetify](https://github.com/vuetifyjs/vuetify) and akryum:vue-component](https://github.com/Akryum/meteor-vue-component).
+Also uses [Vuetify](https://github.com/vuetifyjs/vuetify) and [akryum:vue-component](https://github.com/Akryum/meteor-vue-component).
 
 ### Using this repo
 
